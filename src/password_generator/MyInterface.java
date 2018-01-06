@@ -5,9 +5,13 @@ import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.StringSelection;
 import java.util.LinkedList;
-import password_generator.Password;
 
-
+/**
+ * GUI interface for Password Generator.
+ * @author Enkhamgalan Baterdene
+ * @version 1.2
+ * @date 01/05/2018
+ */
 public class MyInterface extends javax.swing.JFrame {
 
     public MyInterface() {
